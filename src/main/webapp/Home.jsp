@@ -4,13 +4,13 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>Spring Boot Application</title>
 </head>
 <body style="text-align: center;">
 <h1>No time to Die, Register Here</h1>
 <form action="registration" method="POST">
 <input type ="text" name="firstName" placeholder="First Name"/><br>
-<input type="text" name="lastName" placeholder="Last Name" /> <br/->
+<input type="text" name="lastName" placeholder="Last Name" /> <br>
 <input type="text" name="email" placeholder="Email" /> <br>
 <input type="Submit" value="Submit"/><br>
 </form>
